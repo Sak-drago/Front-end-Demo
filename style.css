@@ -226,7 +226,8 @@ strong {
 .pop-content {
   display: flex;
   justify-content: space-evenly;
-  margin-top: 60px;
+  align-items: center;
+  height: 100%;
 }
 
 .pop-text {
@@ -236,6 +237,7 @@ strong {
   gap: 10px;
   justify-content: center;
   align-items: center;
+
 }
 
 .pop-head {
